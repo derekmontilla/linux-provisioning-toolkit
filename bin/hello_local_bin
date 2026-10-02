@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Hello from local bin folder [$PWD]"
+
+exit 0
