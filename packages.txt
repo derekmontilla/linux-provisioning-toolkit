@@ -1,0 +1,4 @@
+doxygen
+sqlite3
+tree
+htop
